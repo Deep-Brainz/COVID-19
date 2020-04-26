@@ -26,7 +26,7 @@ An Automated End-to-End AI Solution built based on the various custom evaluation
 
 ![An End-to-End AI Solution for COVID-19 Predictions](https://github.com/Deep-Brainz/COVID-19/raw/master/NB1.png)
 
-### Module 2) [COVID-19 Diagnostics v1 with CoronaHack Dataset (97% Accuracy)](https://render.githubusercontent.com/view/ipynb?commit=c4d02821f1de47b2ffefaae429203ede41fe16b0&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f446565702d427261696e7a2f434f5649442d31392f633464303238323166316465343762326666656661616534323932303365646534316665313662302f636f7669642d31392d646961676e6f73746963732d776974682d636f726f6e616861636b2d646174617365742e6970796e62&nwo=Deep-Brainz%2FCOVID-19&path=covid-19-diagnostics-with-coronahack-dataset.ipynb&repository_id=258987616&repository_type=Repository#COVID-19-Diagnostics-with-CoronaHack-Dataset---Data-Exploration-&-Baseline-Model-with-97%-Accuracy)
+### Module 2a) [COVID-19 Diagnostics v1 with CoronaHack Dataset (97% Accuracy)](https://render.githubusercontent.com/view/ipynb?commit=c4d02821f1de47b2ffefaae429203ede41fe16b0&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f446565702d427261696e7a2f434f5649442d31392f633464303238323166316465343762326666656661616534323932303365646534316665313662302f636f7669642d31392d646961676e6f73746963732d776974682d636f726f6e616861636b2d646174617365742e6970796e62&nwo=Deep-Brainz%2FCOVID-19&path=covid-19-diagnostics-with-coronahack-dataset.ipynb&repository_id=258987616&repository_type=Repository#COVID-19-Diagnostics-with-CoronaHack-Dataset---Data-Exploration-&-Baseline-Model-with-97%-Accuracy)
 
 ![COVID-19 Diagnostics with CoronaHack Dataset (97% Accuracy)](https://github.com/Deep-Brainz/COVID-19/raw/master/NB21.png)
 
@@ -40,7 +40,7 @@ An Automated End-to-End AI Solution built based on the various custom evaluation
 
 ![COVID-19 Diagnostics with CoronaHack Dataset (97% Accuracy)](https://github.com/Deep-Brainz/COVID-19/raw/master/NB24.png)
 
-### Module 2) [COVID-19 Diagnostics v2 with Various Classifiers (AUC 95.41%, Recall 93.51%)](https://render.githubusercontent.com/view/ipynb?commit=86dd0182b2b7e59e5a9a9066e5c914bb37589b74&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f446565702d427261696e7a2f434f5649442d31392f383664643031383262326237653539653561396139303636653563393134626233373538396237342f636f7669642d31392d636c6173736966696572732e6970796e62&nwo=Deep-Brainz%2FCOVID-19&path=covid-19-classifiers.ipynb&repository_id=258987616&repository_type=Repository#Data-Preparation)
+### Module 2b) [COVID-19 Diagnostics v2 with Various Classifiers (AUC 95.41%, Recall 93.51%)](https://render.githubusercontent.com/view/ipynb?commit=86dd0182b2b7e59e5a9a9066e5c914bb37589b74&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f446565702d427261696e7a2f434f5649442d31392f383664643031383262326237653539653561396139303636653563393134626233373538396237342f636f7669642d31392d636c6173736966696572732e6970796e62&nwo=Deep-Brainz%2FCOVID-19&path=covid-19-classifiers.ipynb&repository_id=258987616&repository_type=Repository#Data-Preparation)
 
 ![COVID-19 Diagnostics v2 with various classifiers (AUC 95.41%, Recall 93.51%)](https://github.com/Deep-Brainz/COVID-19/raw/master/NB31.png)
 
