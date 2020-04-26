@@ -8,7 +8,7 @@ An Automated End-to-End AI Solution built based on the various custom evaluation
 
 
 ## Credits:
-### Data Source: [COVID-19 Data - Kaggle](https://www.kaggle.com/covid19)
+### Data Source: [COVID-19 Data | Kaggle](https://www.kaggle.com/covid19)
 ### References: To Be Updated
 
 
