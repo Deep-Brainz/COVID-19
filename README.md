@@ -1,5 +1,3 @@
-<p align="center">
-
 ![DeepBrainz AI for COVID-19](https://github.com/Deep-Brainz/COVID-19/raw/master/website_logo_transparent_background.png)
 
 ![](https://github.com/Deep-Brainz/COVID-19/raw/master/Pan-EUHackathon-1536x334.jpg)
@@ -74,7 +72,4 @@ An Automated End-to-End AI Solution built based on the various custom evaluation
 ### Data Source: [COVID-19 Data | Kaggle](https://www.kaggle.com/covid19)
 ### References: To Be Updated
 
-
 ## More to come! Stay Tuned!
-
-</p>
