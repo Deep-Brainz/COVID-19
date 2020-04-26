@@ -1,3 +1,5 @@
+![DeepBrainz AI for COVID-19](https://github.com/Deep-Brainz/COVID-19/raw/master/website_logo_transparent_background.png)
+
 ![](https://github.com/Deep-Brainz/COVID-19/raw/master/Pan-EUHackathon-1536x334.jpg)
 
 # [DeepBrainz AI for COVID-19](http://covid19.deepbrainz.com)
