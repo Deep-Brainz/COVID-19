@@ -48,7 +48,14 @@ An Automated End-to-End AI Solution built based on the various custom evaluation
 
 ### Module 3) [COVID-19-Forecasting-Analysis-and-Predictions](https://nbviewer.jupyter.org/github/Deep-Brainz/COVID-19/raw/c4d02821f1de47b2ffefaae429203ede41fe16b0/covid-19-forecasting-analysis-and-predictions.ipynb)
 
+![COVID-19-Forecasting-Analysis-and-Predictions](https://github.com/Deep-Brainz/COVID-19/raw/master/NB4001.png)
+
+![COVID-19-Forecasting-Analysis-and-Predictions](https://github.com/Deep-Brainz/COVID-19/raw/master/NB4002.png)
+
+![COVID-19-Forecasting-Analysis-and-Predictions](https://github.com/Deep-Brainz/COVID-19/raw/master/NB4003.png)
+
 ![COVID-19-Forecasting-Analysis-and-Predictions](https://github.com/Deep-Brainz/COVID-19/raw/master/NB5.png)
+
 ### Module 4) [COVID-19 Analysis, Visualization, Comparison and Predictions](http://nbviewer.ipython.org/github/Deep-Brainz/COVID-19/raw/c4d02821f1de47b2ffefaae429203ede41fe16b0/covid-19-analysis-viz-prediction.ipynb)
 
 ![COVID-19 Analysis, Visualization, Comparison and Predictions](https://github.com/Deep-Brainz/COVID-19/raw/master/NB403.png)
