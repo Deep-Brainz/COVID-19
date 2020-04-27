@@ -4,18 +4,18 @@
 
 # [DeepBrainz AI for COVID-19](http://covid19.deepbrainz.com)
 
-## An End-to-End Auto AI/ML Platform for COVID-19 Diagnostics, Forecasting, Monitoring and Genomics Analytics
+## An End-to-End Auto AI/ML Platform as AI-first SaaS Platform for COVID-19 Diagnostics, Forecasting, Monitoring and Genomics Analytics
 
 ![](https://github.com/Deep-Brainz/COVID-19/raw/master/covid19.png)
 
 <p align="center">
-A Next-Gen Integrated End-to-End Autonomous AI Platform for the COVID-19 Diagnostics (Medical Imaging), Forecasting, Genome Analytics, Public Health Surveillance, and Monitoring.
+A Next-Gen Integrated End-to-End Autonomous AI Platform as an AI-first SaaS Platform for the COVID-19 Diagnostics (Medical Imaging), Forecasting, Genome Analytics, Public Health Surveillance, and Monitoring.
 </p>
 
 ![](https://github.com/Deep-Brainz/COVID-19/raw/master/image770x420cropped.jpg)
 
 <p align="center">
-An Automated End-to-End AI Solution built based on the various custom evaluation metrics over various available Open-DataSets for the COVID-19 Diagnostics with Medical Imaging using NVIDIA Clara, its Forecasting using TensorFlow 2.0, PyTorch with the SOTA BERT based models and its Genome Analytics using NVIDIA Parabricks, Public Health Surveillance, and Monitoring using the State-of-the-art Computer Vision techniques/methods based on CNN Algorithm such as EfficientNet, EfficientDet, ResNet, and so on, AI-based smart solutions for contactless entry, Movement tracking, Geofencing technology, Crowd management solution, Fake news detection, Smart logistics/ fleet management.
+An AI-first SaaS Platform with An Automated End-to-End AI Solution built based on the various custom evaluation metrics over various available Open-DataSets for the COVID-19 Diagnostics with Medical Imaging using NVIDIA Clara, its Forecasting using TensorFlow 2.0, PyTorch with the SOTA BERT based models and its Genome Analytics using NVIDIA Parabricks, Public Health Surveillance, and Monitoring using the State-of-the-art Computer Vision techniques/methods based on CNN Algorithm such as EfficientNet, EfficientDet, ResNet, and so on, AI-based smart solutions for contactless entry, Movement tracking, Geofencing technology, Crowd management solution, Fake news detection, Smart logistics/ fleet management.
 </p>
 
 ![](https://github.com/Deep-Brainz/COVID-19/raw/master/Coronavirus.png)
@@ -87,6 +87,8 @@ An Automated End-to-End AI Solution built based on the various custom evaluation
 ![COVID-19-Symptoms-Checker](https://github.com/Deep-Brainz/COVID-19/raw/master/NB6.png)
 
 ![COVID-19-Symptoms-Checker](https://github.com/Deep-Brainz/COVID-19/raw/master/NB64.png)
+
+Here you go for the slides of our COVID-19 focused core AI project:
 
 <object data="https://img1.wsimg.com/blobby/go/8cb2e234-ff7b-42bc-9ef2-043ca660d6e8/downloads/DEEPBRAINZ%20AI%202020.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://img1.wsimg.com/blobby/go/8cb2e234-ff7b-42bc-9ef2-043ca660d6e8/downloads/DEEPBRAINZ%20AI%202020.pdf">
