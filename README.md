@@ -88,7 +88,9 @@ An AI-first SaaS Platform with An Automated End-to-End AI Solution built based o
 
 ![COVID-19-Symptoms-Checker](https://github.com/Deep-Brainz/COVID-19/raw/master/NB64.png)
 
-Here you go for the slides of our COVID-19 focused core AI project:
+### Thus our COVID-19 focused core AI project solution as an AI-first SaaS Platform is going to be live in the marketplaces as a SaaS in the form of Web/Mobile App!
+
+## Here you go for the slides of our COVID-19 focused core AI project:
 
 <object data="https://img1.wsimg.com/blobby/go/8cb2e234-ff7b-42bc-9ef2-043ca660d6e8/downloads/DEEPBRAINZ%20AI%202020.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://img1.wsimg.com/blobby/go/8cb2e234-ff7b-42bc-9ef2-043ca660d6e8/downloads/DEEPBRAINZ%20AI%202020.pdf">
