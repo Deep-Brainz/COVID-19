@@ -88,6 +88,11 @@ An Automated End-to-End AI Solution built based on the various custom evaluation
 
 ![COVID-19-Symptoms-Checker](https://github.com/Deep-Brainz/COVID-19/raw/master/NB64.png)
 
+<object data="https://img1.wsimg.com/blobby/go/8cb2e234-ff7b-42bc-9ef2-043ca660d6e8/downloads/DEEPBRAINZ%20AI%202020.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://img1.wsimg.com/blobby/go/8cb2e234-ff7b-42bc-9ef2-043ca660d6e8/downloads/DEEPBRAINZ%20AI%202020.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://img1.wsimg.com/blobby/go/8cb2e234-ff7b-42bc-9ef2-043ca660d6e8/downloads/DEEPBRAINZ%20AI%202020.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 ## Credits:
 ### Data Source: [COVID-19 Data | Kaggle](https://www.kaggle.com/covid19)
